@@ -2,6 +2,8 @@
 ## Overview
 This project integrates the advanced capabilities of the ChatGPT model to create an AI Chatbot designed to interact with users across various META platforms, including Facebook, Instagram, and WhatsApp. Utilizing Replit for backend operations and ManyChat for the frontend, this Chatbot emulates the persona of Marcus Aurelius, drawing on his work "Meditations" to deliver responses.
 
+It is better if you just fork it in Replit tbh: [repo](https://replit.com/@danielcarreonwo/METACHATBOT)
+
 ## Features
 Emulates Marcus Aurelius' persona to provide philosophical advice and insights.
 Backend built on Replit, leveraging the power of OpenAI's GPT-4 model.
