@@ -13,11 +13,11 @@ Utilizes Airtable for database management to track conversations and users.
 ## Structure
 The application consists of several Python modules:
 
-`assistant.py`: Manages the creation or loading of the assistant's instance.
-`core_functions.py`: Contains the core functionalities including the OpenAI client initialization, version checking, database operations, and run status processing.
-`main.py`: The Flask server that handles the web routes for starting conversations, chatting, and checking run status.
-`prompt.py`: Defines the assistant's instructions and behavior to emulate Marcus Aurelius.
-`datetime.py`: Contains the configuration and callback function for obtaining the current time based on a given timezone.
+`assistant.py`: Manages the creation or loading of the assistant's instance.  
+`core_functions.py`: Contains the core functionalities including the OpenAI client initialization, version checking, database operations, and run status processing.  
+`main.py`: The Flask server that handles the web routes for starting conversations, chatting, and checking run status.  
+`prompt.py`: Defines the assistant's instructions and behavior to emulate Marcus Aurelius.  
+`datetime.py`: Contains the configuration and callback function for obtaining the current time based on a given timezone.  
 
 ## Installation and Setup
 To set up the project, follow these steps:
